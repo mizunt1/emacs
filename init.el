@@ -1,5 +1,5 @@
 ;put this in ~/.emacs.d/init.el
-; nb to initialise this file, just type M-x eval-buffer
+; nb to initialise this file, just type M-x eval-buffer 
 
 (require 'package)
 (add-to-list 'package-archives
